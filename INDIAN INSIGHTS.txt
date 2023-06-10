@@ -1,0 +1,11 @@
+The dataset used to create the above picture contained flavour profiles for about 29 different foods, including Chapati, Nan, Rongi, Kanji, and others. Before moving further with the creation of the graphic, these dishes were identified as having typical flavour profiles.
+
+
+Let me go take a cup of great Darjeeling Tea, another delicacy not listed in this dataset, while you all reflect on this analysis. I sincerely hope that everyone will enjoy my presentation as much as I have enjoyed creating and giving it to you.
+The following observations are noteworthy from the above graphic VISUALTIZATION :-
+
+Bengal from the Eastern part of the country loves having sweet dishes (16 sweet dishes). I being a Bengali can confirm that there are a large variety of sweets manufcatured and consumed in Bengal.
+Punjab from the Northen part of the country loves spicy food more than anything else. Punjabi food is the most common and popular food from the North India. Punjab has the most numbered circles in that "North" facet of the graphic
+Similarly Assamese food is the most common and popular among the North Eastern States. Assamese food is also mostly spicy with 11 of them as spicy followed by sweet and standard flavors.
+South India also has a greater proportion of foods as spicy with Tamil Nadu having quite a large number of dishes which are spicy.
+The West also has good distribution of spicy and sweet dishes with Maharashtra 14 spicy and 12 sweet dishes. Gujarat as an exception has 2 bitter flavored dishes and 1 sour flavored dish.
